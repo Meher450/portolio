@@ -74,11 +74,10 @@ export const experience = [
     period: "Jan 24 - Present",
     certificateLink: "https://drive.google.com/file/d/1XlwBEmnIhoKesglvr2xZk5_Wu2SxS0xl/view?usp=sharing",
     contributions: [
-      "Worked on 40,000 plus patient records",
-      "Built models using Ridge Regression, Logistic Regression, and XGBoost",
-      "Achieved LOS prediction R2 around 0.96 and readmission accuracy around 87 percent",
-      "Developed Power BI dashboards and Streamlit application",
-      "Implemented staffing optimization logic"
+      "Analyzed large datasets of over 40,000 records using SQL and Python to uncover patterns in operational and customer data",
+      "Developed interactive dashboards in Power BI to track KPIs and support data driven decision making",
+      "Performed exploratory data analysis and data cleaning to improve data quality and reliability",
+      "Generated actionable insights that supported business strategy and performance optimization"
     ],
   },
   {
@@ -87,10 +86,10 @@ export const experience = [
     period: "Jun 23 - Dec 23",
     certificateLink: "https://drive.google.com/file/d/1J4jhaLNaJ9k5Ll3WrZHG3sLgYni-ilqH/view?usp=sharing",
     contributions: [
-      "Built dashboards using 15,000 plus records",
-      "Created 15 KPIs and 25 visuals",
-      "Used Power Query and DAX",
-      "Generated insights on sales contribution and growth trends"
+      "Designed and built dynamic dashboards using Power BI to present insights from 15,000 plus data points",
+      "Transformed raw data into meaningful visual stories using DAX, Power Query, and chart design principles",
+      "Optimized dashboard performance and usability for better stakeholder interaction",
+      "Communicated key trends and findings through visually intuitive reports and presentations"
     ],
   },
   {
@@ -99,9 +98,10 @@ export const experience = [
     period: "Jan 23 - May 23",
     certificateLink: "https://drive.google.com/file/d/1yiIshnmKUbVKpKU3QqFSHDU2ZBhrIIs2/view?usp=sharing",
     contributions: [
-      "Built CNN model with 98 percent accuracy",
-      "Developed Streamlit app with OpenCV input",
-      "Enabled real time predictions"
+      "Built machine learning models including regression and classification to solve real world problems",
+      "Engineered features and prepared datasets for training predictive models using Python libraries",
+      "Evaluated model performance using metrics such as accuracy, R2 score, and precision",
+      "Deployed solutions using Streamlit to enable real time predictions and user interaction"
     ],
   }
 ];
