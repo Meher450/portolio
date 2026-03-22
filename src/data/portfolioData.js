@@ -68,22 +68,10 @@ export const skills = {
 };
 
 export const experience = [
-  {
-    role: "Data Analyst Intern",
-    company: "Aishwi Technologies",
-    period: "Jan 24 - Present",
-    certificateLink: "https://drive.google.com/file/d/1XlwBEmnIhoKesglvr2xZk5_Wu2SxS0xl/view?usp=sharing",
-    contributions: [
-      "Analyzed large datasets of over 40,000 records using SQL and Python to uncover patterns in operational and customer data",
-      "Developed interactive dashboards in Power BI to track KPIs and support data driven decision making",
-      "Performed exploratory data analysis and data cleaning to improve data quality and reliability",
-      "Generated actionable insights that supported business strategy and performance optimization"
-    ],
-  },
-  {
+    {
     role: "Data Visualization Intern",
     company: "Infosys Springboard",
-    period: "Jun 23 - Dec 23",
+    period: "Sep 25 - Nov 25",
     certificateLink: "https://drive.google.com/file/d/1J4jhaLNaJ9k5Ll3WrZHG3sLgYni-ilqH/view?usp=sharing",
     contributions: [
       "Designed and built dynamic dashboards using Power BI to present insights from 15,000 plus data points",
@@ -93,9 +81,21 @@ export const experience = [
     ],
   },
   {
+    role: "Data Analyst Intern",
+    company: "Aishwi Technologies",
+    period: "Jul 25 - Oct 25",
+    certificateLink: "https://drive.google.com/file/d/1XlwBEmnIhoKesglvr2xZk5_Wu2SxS0xl/view?usp=sharing",
+    contributions: [
+      "Analyzed large datasets of over 40,000 records using SQL and Python to uncover patterns in operational and customer data",
+      "Developed interactive dashboards in Power BI to track KPIs and support data driven decision making",
+      "Performed exploratory data analysis and data cleaning to improve data quality and reliability",
+      "Generated actionable insights that supported business strategy and performance optimization"
+    ],
+  },
+  {
     role: "Data Scientist Intern",
     company: "EiSystems Technologies",
-    period: "Jan 23 - May 23",
+    period: "Mar 25 - May 23",
     certificateLink: "https://drive.google.com/file/d/1yiIshnmKUbVKpKU3QqFSHDU2ZBhrIIs2/view?usp=sharing",
     contributions: [
       "Built machine learning models including regression and classification to solve real world problems",
