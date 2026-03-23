@@ -95,7 +95,7 @@ export const experience = [
   {
     role: "Data Scientist Intern",
     company: "EiSystems Technologies",
-    period: "Mar 25 - May 23",
+    period: "Mar 25 - May 25",
     certificateLink: "https://drive.google.com/file/d/1yiIshnmKUbVKpKU3QqFSHDU2ZBhrIIs2/view?usp=sharing",
     contributions: [
       "Built machine learning models including regression and classification to solve real world problems",
