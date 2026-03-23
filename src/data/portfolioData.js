@@ -47,7 +47,7 @@ export const skills = {
   ],
   "DS & ML Concepts": [
     { name: "Data Cleaning & EDA", icon: FaCogs , level: "Expert" },
-    { name: "Regression & Class.", icon: FaBrain , level: "Advanced" },
+    { name: "Regression & Classification.", icon: FaBrain , level: "Advanced" },
     { name: "Time Series", icon: FaChartLine , level: "Intermediate" },
     { name: "Statistics & Math", icon: FaCogs , level: "Advanced" },
     { name: "Deep Learning (CNNs)", icon: FaBrain , level: "Advanced" },
@@ -74,7 +74,7 @@ export const experience = [
     period: "Sep 25 - Nov 25",
     certificateLink: "https://drive.google.com/file/d/1J4jhaLNaJ9k5Ll3WrZHG3sLgYni-ilqH/view?usp=sharing",
     contributions: [
-      "Designed and built dynamic dashboards using Power BI to present insights from 15,000 plus data points",
+      "Designed and built dynamic dashboards using Power BI to present insights from 15,000+ data points",
       "Transformed raw data into meaningful visual stories using DAX, Power Query, and chart design principles",
       "Optimized dashboard performance and usability for better stakeholder interaction",
       "Communicated key trends and findings through visually intuitive reports and presentations"
@@ -87,7 +87,7 @@ export const experience = [
     certificateLink: "https://drive.google.com/file/d/1XlwBEmnIhoKesglvr2xZk5_Wu2SxS0xl/view?usp=sharing",
     contributions: [
       "Analyzed large datasets of over 40,000 records using SQL and Python to uncover patterns in operational and customer data",
-      "Developed interactive dashboards in Power BI to track KPIs and support data driven decision making",
+      "Developed interactive dashboards in Power BI to track KPIs and support data-driven decision-making",
       "Performed exploratory data analysis and data cleaning to improve data quality and reliability",
       "Generated actionable insights that supported business strategy and performance optimization"
     ],
@@ -98,10 +98,10 @@ export const experience = [
     period: "Mar 25 - May 25",
     certificateLink: "https://drive.google.com/file/d/1yiIshnmKUbVKpKU3QqFSHDU2ZBhrIIs2/view?usp=sharing",
     contributions: [
-      "Built machine learning models including regression and classification to solve real world problems",
+      "Built machine learning models including regression and classification to solve real-world problems",
       "Engineered features and prepared datasets for training predictive models using Python libraries",
       "Evaluated model performance using metrics such as accuracy, R2 score, and precision",
-      "Deployed solutions using Streamlit to enable real time predictions and user interaction"
+      "Deployed solutions using Streamlit to enable real-time predictions and user interaction"
     ],
   }
 ];
@@ -113,7 +113,7 @@ export const projects = [
     featured: true,
     date: "Aug 24 - Nov 24",
     image: "/assets/images/curatech.png",
-    description: "Built to optimize hospital operations, CuraTech analyzes patient admission patterns and resource usage. By leveraging advanced Machine Learning models (Regression, Classification) trained on extensive hospital data, it accurately predicts length of stay and readmission risks. The solution includes interactive Power BI dashboards that visualize operational insights, ultimately resulting in a comprehensive understanding of end-to-end ML pipelines in real-world healthcare analytics.",
+    description: "Built to optimize hospital operations, CuraTech analyzes patient admission patterns and resource usage. By leveraging advanced Machine Learning models (Regression, Classification) trained on extensive hospital data, it accurately predicts length of stay and readmission risks. The solution includes interactive Power BI dashboards that visualize operational insights, ultimately resulting in a comprehensive understanding of end-to-end ML pipelines for real-world healthcare analytics.",
     tech: ["Python", "Machine Learning", "Power BI", "SQL"],
     live: "#",
     github: "https://github.com/Meher450/CuraTech_Hospital_Management.git"
@@ -193,7 +193,7 @@ export const projects = [
 
 export const achievements = [
   { icon: FaDatabase, title: "Data Science Community Lead", date: "Dec 25", certificateLink: "https://drive.google.com/file/d/1ZRUh7QRHJoeLh-nDmYxI_XEpD8VksrHC/view?usp=sharing", description: "Organized workshops and mentored 100+ students in Python and Machine Learning fundamentals." },
-  { icon: FaGithub, title: "Microsoft Learn Hackathon Runner-up", date: "Jan 24", certificateLink: "https://drive.google.com/file/d/1OclawFyLw0OqdjFjTaMlg_uUrZPqGAgw/view?usp=drive_link", description: "Secured Runner-up position in the Microsoft Learn Student Ambassador Hackathon: Jan 24. Recognized for developing a real-time ISRO landing page using APIs." }
+  { icon: FaGithub, title: "Microsoft Learn Hackathon Runner-up", date: "Jan 24", certificateLink: "https://drive.google.com/file/d/1OclawFyLw0OqdjFjTaMlg_uUrZPqGAgw/view?usp=drive_link", description: "Secured Runner-up position in the Microsoft Learn Student Ambassador Hackathon. Recognized for developing a real-time ISRO landing page using APIs." }
 ];
 
 export const certifications = [
