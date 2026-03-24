@@ -132,7 +132,7 @@ export default function Hero() {
             <motion.div 
               animate={{ y: [-10, 10, -10] }}
               transition={{ duration: 4, repeat: Infinity, ease: "easeInOut", delay: 1 }}
-              className="absolute top-10 -right-4 bg-white dark:bg-dark-800 border border-gray-200 dark:border-white/10 px-4 py-2 rounded-full shadow-xl z-20 flex items-center gap-2"
+              className="absolute top-4 -right-16 bg-white dark:bg-dark-800 border border-gray-200 dark:border-white/10 px-4 py-2 rounded-full shadow-xl z-20 flex items-center gap-2"
             >
               <div className="w-2 h-2 rounded-full bg-green-500 animate-pulse"></div>
               <span className="text-xs font-mono text-cyan-600 dark:text-cyan-400">Open to Collaborate</span>
